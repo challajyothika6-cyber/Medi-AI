@@ -3,3 +3,7 @@ groq
 python-dotenv
 reportlab
 pandas
+numpy
+scikit-learn
+requests
+Pillow
